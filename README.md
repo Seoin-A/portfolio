@@ -6,8 +6,9 @@
 
 
 ## tel
-- email
-- git
+- email : seoin2389@icloud.com
+        : seoin2356@google.com 
+- git : https://github.com/Seoin-A
 
 <br>
 
